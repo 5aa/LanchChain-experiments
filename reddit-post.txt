@@ -1,0 +1,875 @@
+r/ChatGPTPro icon
+Go to ChatGPTPro
+r/ChatGPTPro
+•
+1 yr. ago
+TheHunter920
+
+Are there any good free GPT-powered AI summarizer for very long text?
+Question
+I'm looking for something that can summarize very long texts (like a full-size novel or a college research paper) then use chatGPT or something similar to analyze, summarize, or ask questions about it.
+
+I could use chatGPT's API to build a program to do that (like this one posted here a month ago), but over time it gets very costly. Are there any free programs out there that do just that?
+
+
+Upvote
+50
+
+Downvote
+
+57
+comments
+
+
+Share
+Share
+Add a comment
+Sort by:
+
+Best
+
+Search Comments
+Expand comment search
+u/InfuriatinglyOpaque avatar
+InfuriatinglyOpaque
+•
+1y ago
+There are a lot of open source tools for summarizing/comparing/chatting with lengthy documents. Most of them use something like pinecone to store embeddings from your document(s), although some let you store embeddings locally (e.g. BriefGPT). I've tried some of them with medium sized docs (~20 pages), and found them to work pretty well. Not sure whether the performance drops off as you move into full sized novel length docs though. Might be good to test some of them on a book you're very familiar with before trusting them to accurately summarize unknown materials for you.
+
+Here are some links to the gpt-document tools I have bookmarked. Some of them do have online demos, but you'll typically have more flexibility if you implement them on your local machine.
+
+https://gptdoc-summarizer.streamlit.app/
+
+https://chat.vectorhub.org/
+
+https://knowledgegpt.streamlit.app/
+
+https://vault.pash.city/
+
+https://gptdoc-summarizer.streamlit.app/
+
+https://github.com/imartinez/privateGPT
+
+https://github.com/e-johnstonn/BriefGPT
+
+https://github.com/dissorial/doc-chatbot
+
+https://github.com/PromtEngineer/localGPT
+
+https://github.com/Anil-matcha/ChatPDF
+
+
+
+Upvote
+18
+
+Downvote
+Reply
+reply
+
+Award
+
+Share
+Share
+
+u/Chimpgainz avatar
+Chimpgainz
+•
+1y ago
+My dude just dropped a diamond in the rough 💎
+
+Thank you!
+
+
+Upvote
+6
+
+Downvote
+Reply
+reply
+
+Award
+
+Share
+Share
+
+u/Severe-Interest-5904 avatar
+Severe-Interest-5904
+•
+5mo ago
+I've actually found a pretty neat tool that has to be added to this list: https://www.notsly.com/
+
+Can summarize large texts in multiple languages, and also give you the option to generate long summary, short summary or Key Insights from it.
+
+The cherry on top is the calendar integration feature, where you can generate key tasks from your notes/texts and integrate them into your calendar.
+
+
+
+Upvote
+1
+
+Downvote
+Reply
+reply
+
+Award
+
+Share
+Share
+
+Acrobatic-Monitor516
+•
+5mo ago
+I'm not sure I get it Do you need your own API key ? Or is it included
+
+
+Upvote
+1
+
+Downvote
+Reply
+reply
+
+Award
+
+Share
+Share
+
+Sensasian_01
+•
+4mo ago
+Do you have the API keys?
+
+
+Upvote
+1
+
+Downvote
+Reply
+reply
+
+Award
+
+Share
+Share
+
+Key-Celebration5314
+•
+2mo ago
+This is another free one. working good so far. https://chromewebstore.google.com/detail/beeifbmfcelggcdpeehjgockhacfjpbp
+
+
+Upvote
+1
+
+Downvote
+Reply
+reply
+
+Award
+
+Share
+Share
+
+u/Old_Swan8945 avatar
+Old_Swan8945
+•
+10mo ago
+Hey would add one more to this list: summarize-article.co
+
+Can summarize articles up to 300+ pages and condenses down to 5-10 pages. A lot of these have context length restrictions, but this one seems to work on very long text, and also outputs short/medium/long summaries to a Word doc which is very helpful
+
+
+Upvote
+1
+
+Downvote
+Reply
+reply
+
+Award
+
+Share
+Share
+
+
+[deleted]
+•
+3mo ago
+kirniy1
+•
+1y ago
+I have recently found this service, which is super awesome and free.
+
+
+
+Upvote
+4
+
+Downvote
+Reply
+reply
+
+Award
+
+Share
+Share
+
+madame_maman
+•
+4mo ago
+Thank you, I really enjoyed it!
+
+
+Upvote
+2
+
+Downvote
+Reply
+reply
+
+Award
+
+Share
+Share
+
+sccriabin
+•
+3mo ago
+Truly amazing one. I was looking for something free and this one is perfect
+
+
+Upvote
+2
+
+Downvote
+Reply
+reply
+
+Award
+
+Share
+Share
+
+
+[deleted]
+•
+1y ago
+ahaanpandit
+•
+5mo ago
+Although not free, you can try out https://www.notsly.com/
+It has a lifetime deal and you can your own APIs to run it.
+
+
+
+Upvote
+1
+
+Downvote
+Reply
+reply
+
+Award
+
+Share
+Share
+
+u/Severe-Interest-5904 avatar
+Severe-Interest-5904
+•
+5mo ago
+Been using this for the past 2 months. Super useful, especially the calendar integration feature.
+
+
+
+Upvote
+2
+
+Downvote
+Reply
+reply
+
+Award
+
+Share
+Share
+
+ahaanpandit
+•
+5mo ago
+👀🥺 a random notsly user in the wild!
+
+
+Upvote
+1
+
+Downvote
+Reply
+reply
+
+Award
+
+Share
+Share
+
+u/Portal1230 avatar
+Portal1230
+•
+4mo ago
+what is an API how do I get it
+
+
+
+Upvote
+2
+
+Downvote
+Reply
+reply
+
+Award
+
+Share
+Share
+
+ahaanpandit
+•
+4mo ago
+Hey there! An AI API Key is needed to run Notsly well. You can get one from Ai.Google.Dev or from OpenAI.
+If you navigate to the API Key section, you can see the complete tutorial over there. Let me DM you the tutorial as well :)
+
+
+Upvote
+1
+
+Downvote
+Reply
+reply
+
+Award
+
+Share
+Share
+
+u/Severe-Interest-5904 avatar
+Severe-Interest-5904
+•
+5mo ago
+I've tried a lot of tools and a lot of them were underwhelming, either in terms of features or the interface. But this new product checks all the boxes: https://www.notsly.com/
+
+There is a single lifetime purchase and you get to bring your own key.
+
+In terms of features, you get to generate long, short summaries and also derive key insights. On top of this, it generates actional tasks out of my notes and integrates them into my calendar.
+
+Easy to use to be honest
+
+
+
+Upvote
+1
+
+Downvote
+Reply
+reply
+
+Award
+
+Share
+Share
+
+Acrobatic-Monitor516
+•
+5mo ago
+What do you pay for ? Do you still have to use your own api with paid tokens?
+
+
+Upvote
+1
+
+Downvote
+Reply
+reply
+
+Award
+
+Share
+Share
+
+pbn_j
+•
+2mo ago
+tried it. straight up didnt work. The AI output was empty and it counted my tries so I used all of them for the day on nothing (i got the $1 30d trial)
+
+
+Upvote
+1
+
+Downvote
+Reply
+reply
+
+Award
+
+Share
+Share
+
+u/Snoo98445 avatar
+Snoo98445
+•
+4mo ago
+try this one: https://thunderbit.com/product/ai-apps/summarize
+
+You can build your own summarizer for any content
+
+
+Upvote
+1
+
+Downvote
+Reply
+reply
+
+Award
+
+Share
+Share
+
+PersonalWrongdoer655
+•
+4mo ago
+afterword.tech can do that for you. It also supports epub format. Other formats pdf, docx, txt, mp3, mp4, web articles and youtube videos also.
+
+
+Upvote
+1
+
+Downvote
+Reply
+reply
+
+Award
+
+Share
+Share
+
+handwerner142
+•
+3mo ago
+I personally use NLP Cloud's summarization API because they propose cheap models for summarization that are not charged per token. These models don't natively support very large inputs but they actually propose a smart "asynchronous mode" that allows you to send very large documents (up to 1 million tokens): under the hood they actually split your document and made many summarization requests in parallel.
+
+
+Upvote
+1
+
+Downvote
+Reply
+reply
+
+Award
+
+Share
+Share
+
+u/Character-Lock-7770 avatar
+Character-Lock-7770
+•
+3mo ago
+check out Coral AI--it's the best for long documents
+
+
+Upvote
+1
+
+Downvote
+Reply
+reply
+
+Award
+
+Share
+Share
+
+kartikkaul1992
+•
+3mo ago
+Hey folks, I found one that is pretty good for long PDFs - https://www.summarywithai.com/ Can handle large file uploads and actually gives a summary of the whole document
+
+
+Upvote
+1
+
+Downvote
+Reply
+reply
+
+Award
+
+Share
+Share
+
+u/staRpauSe avatar
+staRpauSe
+•
+3mo ago
+Best book summarizer I've found is https://snackz.ai/ and you get 3 free books a month. Can read/listen to an unlimited number of books other people have requested.
+
+
+Upvote
+1
+
+Downvote
+Reply
+reply
+
+Award
+
+Share
+Share
+
+u/Admirable_Name596 avatar
+Admirable_Name596
+•
+2mo ago
+Managers need to take into account the country conditions that may have a significant impact on their success when making decisions. Typically, these circumstances generally present opportunities. Describe in depth the opportunities that Walmart encountered upon entering South Africa in 2011.
+Unrealized Potential: South Africa provided Walmart with a retail market that had not been fully utilized, giving a lot of opportunities for expansion. During that period, Walmart was drawn to the country for its expanding middle class and increasing consumer purchasing ability.
+Positive demographic trends: The youthful, urban population and rising disposable incomes in South Africa matched Walmart's desired customer demographic. This change in population demographics gave Walmart the chance to gain a solid presence and secure a large portion of the nation's consumer market.
+
+Regulatory Incentives: The South African government was promoting foreign direct investment by providing multinational corporations such as Walmart with different incentives and tax advantages. The advantageous regulatory conditions allowed Walmart to create a suitable environment for its operations.
+
+
+Upvote
+1
+
+Downvote
+Reply
+reply
+
+Award
+
+Share
+Share
+
+Key-Celebration5314
+•
+2mo ago
+you can try this one: https://chromewebstore.google.com/detail/beeifbmfcelggcdpeehjgockhacfjpbp
+
+
+Upvote
+1
+
+Downvote
+Reply
+reply
+
+Award
+
+Share
+Share
+
+u/ponionmactor avatar
+ponionmactor
+•
+2mo ago
+I'm using AXN Ai Tool to summarize long texts Although It's not free, but it's really good, It can:
+
+Shorten long texts into shorter, meaningful summaries
+
+Find key points and important information
+
+Detect mistakes and inconsistencies
+
+Create new content based on the original text
+
+I think it's worth checking out, It's easy to use and does a great job.
+
+
+Upvote
+1
+
+Downvote
+Reply
+reply
+
+Award
+
+Share
+Share
+
+Key-Celebration5314
+•
+7d ago
+if you are into chrome extensions. This one is working great for me.
+
+https://chromewebstore.google.com/detail/beeifbmfcelggcdpeehjgockhacfjpbp
+
+
+Upvote
+1
+
+Downvote
+Reply
+reply
+
+Award
+
+Share
+Share
+
+u/yautja_cetanu avatar
+yautja_cetanu
+•
+1y ago
+Be careful. These tools arnt actually summarising the long text. Chatgpt can never go over it's token limit. What they are doing is searching through the text to get maybe the top 5 chunks of text that are relevant to your question and passing that to chatgpt and then asking chatgpt to summarise that.
+
+It can sometimes produce summaries of book that look amazing. But it hasn't actually read the whole book so you want to be careful of this depending on your application
+
+
+
+Upvote
+1
+
+Downvote
+Reply
+reply
+
+Award
+
+Share
+Share
+
+u/sephirotalmasy avatar
+sephirotalmasy
+•
+1y ago
+Incorrect. Review the Code Interperer. If you feed a certain word-count text as plain message, you’ll hit a wall. If you feed it as a file, like pdf or docs in CI, it will deal with at least ~350k words as well as. Min. ~1000 pages. See proof here:
+
+12th example: https://m.youtube.com/watch?v=_njf22xx8BQ&feature=youtu.be
+
+
+
+Upvote
+5
+
+Downvote
+Reply
+reply
+
+Award
+
+Share
+Share
+
+u/Old_Swan8945 avatar
+Old_Swan8945
+•
+10mo ago
+I think they found a way to get past this issue here in this tool: summarize-article.co. It uses recursive summarization to generate an outline, and then uses the outline to re-generate the text summary which helps preserve the longer winodw
+
+
+
+Upvote
+1
+
+Downvote
+Reply
+reply
+
+Award
+
+Share
+Share
+
+u/sephirotalmasy avatar
+sephirotalmasy
+•
+10mo ago
+This is a lossy method, I never preferred it.
+There is a new paper with a new methodology researchers named MemGPT, and characterized it as an LLM operating system. The agent is provided function call instructions to archive the original messages for its future retrieval, as well as effectively indexing memories, and drawing inferential bits of information. It's an excessively costly set up, as multiple processing of the same prompt is required and the longer the chat is this effect compounds, but so far the least lossy method is MemGPT.
+
+Here is the paper on this:
+
+https://arxiv.org/abs/2310.08560
+
+And the website:
+
+https://memgpt.ai
+
+For the lazier (like me) a YouTube video summary on the matter:
+
+https://www.youtube.com/watch?v=QQ2QOPWZKVc
+
+
+Upvote
+1
+
+Downvote
+Reply
+reply
+
+Award
+
+Share
+Share
+
+RupFox
+•
+1y ago
+Exactly. The embeddings technique is useful, but it's a hack, so it can't give you holistic answers. Embed an entire book and ask GPT to summarize the main character's story arc. It can't do it. It can only answer narrow questions about episodic events in the book.
+
+
+
+Upvote
+2
+
+Downvote
+Reply
+reply
+
+Award
+
+Share
+Share
+
+u/ersaboori avatar
+ersaboori
+•
+1y ago
+Are there any fixes to this?
+I was wondering how such models could be trained to learn everything fed to them and come up with answers as a holistic interpretation of what they were fed.
+Not just a novel, but let's say an entire library, or all scientific articles.
+
+
+
+Upvote
+1
+
+Downvote
+Reply
+reply
+
+Award
+
+Share
+Share
+
+RupFox
+•
+1y ago
+There's no "fix" because it's a structural limitation. There are "recursive" summarizers that help a little, but nothing that will beat a larger context window's ability to really follow a thread through thousands of tokens.
+
+
+Upvote
+1
+
+Downvote
+Reply
+reply
+
+Award
+
+Share
+Share
+
+medicineballislife
+•
+1y ago
+Claude-100k (limited free use on Poe 3-day free trial) or chunking/DIY solutions
+
+
+Upvote
+1
+
+Downvote
+Reply
+reply
+
+Award
+
+Share
+Share
+
+Kris-chans
+•
+10mo ago
+We are building AI app that can help you to summarize very long text. If you're curious or want to see how it works, you can check it out here: Samurai
+Really appreciate any of your thoughts how to make app better
+
+
+Upvote
+1
+
+Downvote
+Reply
+reply
+
+Award
+
+Share
+Share
+
+u/omsw avatar
+omsw
+•
+10mo ago
+This website summarises Document/DOCX/PDF Files as large as 500 Pages using GPT-4 and also has option to choose summary size https://docxsummarizer.com/
+
+
+Upvote
+1
+
+Downvote
+Reply
+reply
+
+Award
+
+Share
+Share
+
+[deleted]
+[deleted]
+•
+7mo ago
+I made a site for that
+
+https://breakitdownsummarizer.blogspot.com/?m=1
+
+
+Upvote
+1
+
+Downvote
+Reply
+reply
+
+Award
+
+Share
+Share
+
+
+[deleted]
+•
+7mo ago
+S-Mx07z
+•
+5mo ago
+•
+Edited 5mo ago
+Just 2 awesome ones if want to reduce 5k+ dnd plots to 500-800 character words: (But 7d trial)app.hypotenuse.ai/home & scribbr.com/text-summarizer/  I have an issue where my comments not showing up & idk why..reddit.com/r/NewToReddit/comments/15xaswl/how_do_i_check_shadow_ban_now/
+
+
+Upvote
+1
+
+Downvote
+Reply
+reply
+
+Award
+
+Share
+Share
+
